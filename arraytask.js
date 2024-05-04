@@ -1,7 +1,7 @@
 // Array Exercises
 
 
-// butun methodlari arrayin extension methodu olaraq add edirem ve hamisini methodlar istifade etmeden primitiv backend ile yaziram :) cunki maraqlidi
+// butun methodlari arrayin extension methodu olaraq add edirem ve hamisini methodlar istifade etmeden primitiv backend ile yaziram 
 
 // ---------------------------------------------------------------------
 // 1 Write a function that takes an array and returns a new array with the last item removed. (pop)
